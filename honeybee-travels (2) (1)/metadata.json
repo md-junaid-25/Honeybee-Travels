@@ -1,0 +1,5 @@
+{
+  "name": "Honeybee Travels",
+  "description": "A modern React-based travel agency application with a decoupled backend, featuring international, domestic, and honeymoon packages.",
+  "requestFramePermissions": []
+}
