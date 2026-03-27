@@ -1,2 +1,0 @@
-# Honeybee-Travels
-Travel Agency
